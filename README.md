@@ -22,8 +22,8 @@
 
 <!-- PROJECT DESCRIPTION -->
 # 📖 Metrics Webapp <a name="about-project"></a>
-
 > 🚧 "Digital Currency" is about working with the real live data from the Blockchain API. It's a web application for a company that provides informations such as trending coins, coins' price,and crypto transaction. The application allow users to get full information related to the crypto. 🚧
+
 ## 🛠 Built With <a name="built-with">REACT-REDUX</a>
 ### Tech Stack <a name="tech-stack"></a>
 <details>
@@ -62,11 +62,6 @@
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- Presentation of the project -->
-## 🔭 Live Demo <a name="future-features"></a>
-
-[video presentation](https://www.loom.com/share/48a70071d17c453daafd911a3224b8c1)
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- GETTING STARTED -->
 ## 💻 Getting Started <a name="getting-started"></a>
